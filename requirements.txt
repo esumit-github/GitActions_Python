@@ -1,0 +1,6 @@
+setuptools
+ipywidgets==8.1.2
+notebook==7.2.0
+py-youtube==1.1.7
+ensure==1.0.4
+mkdocs-material
