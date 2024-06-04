@@ -5,11 +5,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0."
 
-REPO_NAME = "IPYNBRENDERER"
-AUTHOR_USER_NAME = "sumit.mitra"
-SRC_REPO = "IPYNBRENDERER"
-AUTHOR_EMAIL = "email@rmail.com"
-AUTHOR_PAT=
+REPO_NAME = "GitActions_Python_Template"
+AUTHOR_USER_NAME = "esumit-github"
+SRC_REPO = "GitActions_Python_Template"
+AUTHOR_EMAIL = "2008.sumit@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
