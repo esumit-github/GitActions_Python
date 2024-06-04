@@ -8,7 +8,7 @@ __version__ = "0.0."
 REPO_NAME = "IPYNBRENDERER"
 AUTHOR_USER_NAME = "sumit.mitra"
 SRC_REPO = "IPYNBRENDERER"
-AUTHOR_EMAIL = "sumit.mitra@rakuten.com"
+AUTHOR_EMAIL = "email@rmail.com"
 AUTHOR_PAT=
 
 setuptools.setup(
